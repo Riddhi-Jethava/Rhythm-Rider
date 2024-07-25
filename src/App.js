@@ -145,7 +145,7 @@ function App() {
           <div className="col-12 py-5 text-center">
             <h1>
               <i className="bi bi-music-note-list mx-3"></i>
-              v-music
+              Rhythm Rider
             </h1>
             <h3 className="py-5">Discover music in 30 seconds</h3>
             <div>
@@ -153,7 +153,7 @@ function App() {
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-outline-dark"
-                href="https://github.com/itsrj08/v-music"
+                href="https://github.com/itsrj08/Rhythm-Rider"
               >
                 <i className="bi bi-github mx-2"></i>Github
               </a>
